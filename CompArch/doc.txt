@@ -1,0 +1,4 @@
+#Documentation of timeline
+  - what each assignment entails
+  - time taken
+  - what learned

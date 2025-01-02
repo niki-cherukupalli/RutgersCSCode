@@ -1,0 +1,4 @@
+/* Documentation for class
+ - what I learned
+ - what I could have improved on
+ - notes */

@@ -86,7 +86,7 @@ int main(int argc, char** argv){
     double avg;
     unsigned int min = values[0];
     unsigned int max = values[0];
-    unsigned int sum = 0;
+    unsigned long long int sum = 0;
 
     //calculate min, max, and sum with the values in 1d array
     for(int i = 0; i < count; i++){        
